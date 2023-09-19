@@ -1,0 +1,19 @@
+{
+  "name": "chameleon-engine",
+  "version": "0.1.0",
+  "description": "2D game engine utilizing web technolgies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GriffFerguson/chameleon.git"
+  },
+  "author": "Griffin Ferguson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GriffFerguson/chameleon/issues"
+  },
+  "homepage": "https://github.com/GriffFerguson/chameleon#readme"
+}

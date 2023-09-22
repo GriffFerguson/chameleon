@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GriffFerguson/chameleon/issues"
   },
-  "homepage": "https://github.com/GriffFerguson/chameleon#readme"
+  "homepage": "https://github.com/GriffFerguson/chameleon#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
